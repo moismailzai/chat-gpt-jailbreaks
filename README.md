@@ -1,0 +1,1 @@
+A collection of ChatGPT jailbreaks that I have found. I will update this list as I find more.
